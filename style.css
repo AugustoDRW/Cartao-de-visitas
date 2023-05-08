@@ -2,3 +2,37 @@ html {
   height: 100%;
   width: 100%;
 }
+
+h1{
+  text-align: center;
+}
+
+#fun{
+	width: 300px;
+border: 2px solid #00d5ff;
+  border-radius: 20px;
+  background-color: #e3e3e3;
+  margin-left: 500px;
+}
+
+#cir{
+text-align: center;
+  border:2px solid #00d5ff;
+  border-radius: 20px;
+  width:300px;
+  margin-left: 500px;
+  background-color: #e3e3e3;
+}
+.col{
+  color: #940000;
+}
+.perfil{
+  border-radius: 50%;
+  margin-left: 500px;
+  width:100px;
+}
+
+.red:hover{
+  opacity: 0.5;
+}
+
