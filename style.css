@@ -1,6 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
 html {
   height: 100%;
   width: 100%;
+}
+
+body{
+  background-color: #ccf6ff;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 50px;
 }
 
 h1{
@@ -12,27 +20,46 @@ h1{
 border: 2px solid #00d5ff;
   border-radius: 20px;
   background-color: #e3e3e3;
-  margin-left: 500px;
+  margin: 0 auto;
 }
 
 #cir{
 text-align: center;
   border:2px solid #00d5ff;
   border-radius: 20px;
-  width:300px;
-  margin-left: 500px;
+    width:300px;
   background-color: #e3e3e3;
+  margin: 0 auto;
 }
 .col{
   color: #940000;
 }
 .perfil{
   border-radius: 50%;
-  margin-left: 500px;
   width:100px;
+  border: 1px solid;
+
 }
 
 .red:hover{
   opacity: 0.5;
+}
+div{
+  text-align: center;
+}
+
+#sp{
+  text-align: center;
+}
+
+footer{
+  font-family: 'Rajdhani', sans-serif;
+  font-weight: bold;
+}
+li{
+  
+}
+.sub{
+  text-decoration: underline;
 }
 
